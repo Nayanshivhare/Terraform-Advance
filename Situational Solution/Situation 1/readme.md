@@ -6,7 +6,7 @@
 
 
 
-```
+```golang
 # getting ami id
 data "aws_ami" "ubuntu" {
   most_recent = true
